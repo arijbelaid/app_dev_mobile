@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Applicaation</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+</resources>
